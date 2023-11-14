@@ -1,6 +1,6 @@
 ---
 layout: page
-title: \vspace{-0.75cm} \begin{normalsize} DINO-VITS: Data-efficient noise-robust zero-shot voice cloning via multi-tasking with self-supervised speaker verification loss \end{normalsize} \vspace{-0.5cm}
+title: "DINO-VITS: Data-efficient noise-robust zero-shot voice cloning via multi-tasking with self-supervised speaker verification loss"
 permalink: /dino-vits
 ---
 
