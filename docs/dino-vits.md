@@ -19,7 +19,7 @@ permalink: /dino-vits
 <center><p><img src="./images/dino_VITS.png" width="560"></p></center>
 
 
-# Robustness to noises in reference audio
+# Robustness to noises at inference and general similarity improvement
 
 <object type="text/html" data="demopage_icassp2024_refnoise_subset.html" width="1000" height="600"  ></object>
 
