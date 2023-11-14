@@ -21,7 +21,10 @@ permalink: /dino-vits
 
 # Robustness to noises in reference audio
 
-<object type="text/html" data="demopage_icassp2024_refnoise_subset.html" width="800" height="600"  ></object>
+<object type="text/html" data="demopage_icassp2024_refnoise_subset.html" width="1000" height="600"  ></object>
+
+# Unsupervised training and robustness to noises in data 
+<object type="text/html" data="demopage_icassp2024_corrunits_subset.html" width="1000" height="600"  ></object>
 
 
 # Broader Impacts
