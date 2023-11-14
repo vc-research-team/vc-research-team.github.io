@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: VC Research team
+title: DINO-VITS
 email: maksim.borisov.2013@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Demo page for academic paper "DINO-VITS: DATA-EFFICIENT NOISE-ROBUST ZERO-SHOT VOICE CLONING VIA MULTI-TASKING WITH SELF-SUPERVISED SPEAKER VERIFICATION LOSS"
+# description: >- # this means to ignore newlines until "baseurl:"
+#   Demo page for academic paper "DINO-VITS: DATA-EFFICIENT NOISE-ROBUST ZERO-SHOT VOICE CLONING VIA MULTI-TASKING WITH SELF-SUPERVISED SPEAKER VERIFICATION LOSS"
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: "vc-research-team.github.io"
 url: "https://vc-research-team.github.io" # the base hostname & protocol for your site, e.g. http://example.com
