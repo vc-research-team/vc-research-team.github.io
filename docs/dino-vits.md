@@ -23,7 +23,7 @@ permalink: /dino-vits
 
 <object type="text/html" data="demopage_icassp2024_refnoise_subset.html" width="1000" height="600"  ></object>
 
-# Unsupervised training and robustness to noises in data 
+# Unsupervised training and robustness to noises in training data 
 <object type="text/html" data="demopage_icassp2024_corrunits_subset.html" width="1000" height="600"  ></object>
 
 
