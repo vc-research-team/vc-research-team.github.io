@@ -32,7 +32,7 @@ url: "https://vc-research-team.github.io" # the base hostname & protocol for you
 # theme: minima
 
 theme: jekyll-theme-slate
-#remote_theme: pages-themes/slate@v0.2.0
+remote_theme: pages-themes/slate@v0.2.0
 
 plugins:
   - jekyll-feed
