@@ -4,7 +4,7 @@ title: "DINO-VITS"
 permalink: /dino-vits
 ---
 
-# DINO-VITS: Data-efficient noise-robust zero-shot voice cloning via multi-tasking with self-supervised speaker verification loss.
+# DINO-VITS: Data-efficient noise-robust zero-shot voice cloning via multi-tasking with self-supervised speaker verification loss
 **Vikentii Pankov, Valeria Pronina, Alexander Kuzmin, Maksim Borisov, Nikita Usoltsev, Xingshan Zeng, Alexander Golubkov, Nikolai Ermolenko, Aleksandra Shirshova, Yulia** 
 
 # Abstract
@@ -14,7 +14,7 @@ permalink: /dino-vits
 [*] this page is intended for **research demonstration purposes** only.
 
 
-# System architecture:
+# System architecture
 
 <center><p><img src="./images/dino_VITS.png" width="560"></p></center>
 
