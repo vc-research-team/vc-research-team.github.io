@@ -21,7 +21,7 @@
 title: DINO-VITS
 email: maksim.borisov.2013@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  "Data-efficient noise-robust zero-shot voice cloning via multi-tasking with self-supervised speaker verification loss"
+  Data-efficient noise-robust zero-shot voice cloning via multi-tasking with self-supervised speaker verification loss
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: "vc-research-team.github.io"
 url: "https://vc-research-team.github.io" # the base hostname & protocol for your site, e.g. http://example.com
