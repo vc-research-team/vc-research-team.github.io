@@ -21,10 +21,10 @@ permalink: /dino-vits
 
 # Robustness to noises at inference and general similarity improvement
 
-<object type="text/html" data="demopage_icassp2024_refnoise_subset.html" width="1000" height="600"  ></object>
+<object type="text/html" data="demopage_icassp2024_refnoise_subset.html" width="800" height="600"  ></object>
 
 # Unsupervised training and robustness to noises in data 
-<object type="text/html" data="demopage_icassp2024_corrunits_subset.html" width="1000" height="600"  ></object>
+<object type="text/html" data="demopage_icassp2024_corrunits_subset.html" width="800" height="600"  ></object>
 
 
 # Broader Impacts
@@ -32,19 +32,19 @@ permalink: /dino-vits
 As voice cloning and conversion technologies progress and
 grow in quality so does the risk of their misuse for malicious
 purposes. That is why special attention should be payed to
-developing mitigation strategies. One such strategy is to con-
-trol the use of voice cloning systems and ensure inability to
-use them in open-domain speech generation without user con-
-sent. Another strategy is the development of fake audio detec-
-tion systems. In our case the discriminator jointly trained with
-our DINO-VITS model can serve as the first step to such a so-
-lution. For its evaluation we took real speech recordings from
+developing mitigation strategies. One such strategy is to control the
+ use of voice cloning systems and ensure inability to
+use them in open-domain speech generation without user consent.
+ Another strategy is the development of fake audio detection
+ systems. In our case the discriminator jointly trained with
+our DINO-VITS model can serve as the first step to such a solution.
+ For its evaluation we took real speech recordings from
 the full CHiME3 dataset and then measured its accuracy
 separately on the outputs of each of the models mentioned in
-this paper. The F-score was above 95% for all such evalua-
+this paper. The F-score was above 95% for all such evalua
 tions. This shows that GAN discriminators seem to show a
-potential for efficiently detecting synthesized speech by mod-
-els that share the core generator architecture with the one they
+potential for efficiently detecting synthesized speech by models that share 
+the core generator architecture with the one they
 were trained with (HiFi-GAN decoder in our case). However
 a more extensive study of this issue should be in order so as
 to fully ensure minimization of risk of harm to the end user
