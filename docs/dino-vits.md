@@ -22,7 +22,7 @@ permalink: /dino-vits
 # Robustness to noises at inference and general similarity improvement
 
 <!-- <object type="text/html" data="demopage_icassp2024_refnoise_subset.html" width="800" height="600"  ></object> -->
-<table border="1" class="dataframe">
+<table border="1" class="dataframe" table-layout: auto >
   <thead>
     <tr style="text-align: right;">
       <th>text</th>
@@ -121,7 +121,7 @@ permalink: /dino-vits
 </table>
 
 # Unsupervised training and robustness to noises in training data 
-<table border="1" class="dataframe">
+<table border="1" class="dataframe" table-layout: auto>
   <thead>
     <tr style="text-align: right;">
       <th>text</th>
