@@ -4,6 +4,11 @@ title: "DINO-VITS"
 permalink: /dino-vits
 ---
 
+
+<center> <a href="https://arxiv.org/abs/2311.09770" class="btn2">• Paper on arXiv •</a>  </center>
+
+
+
 <!-- # DINO-VITS: Data-efficient noise-robust zero-shot voice cloning via multi-tasking with self-supervised speaker verification loss -->
 **Vikentii Pankov, Valeria Pronina, Alexander Kuzmin, Maksim Borisov, Nikita Usoltsev, Xingshan Zeng, Alexander Golubkov, Nikolai Ermolenko, Aleksandra Shirshova, Yulia Matveeva** 
 
