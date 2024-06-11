@@ -111,7 +111,7 @@ permalink: /dino-vits
 </tbody>
 </table>
 
-# Unsupervised training and robustness to noises in training data 
+# Training from noisy untranscribed data 
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
