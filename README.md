@@ -1,2 +1,2 @@
 # VC-Research-team.github.io
-This repository contains demo for paper "DINO-VITS: DATA-EFFICIENT NOISE-ROBUST ZERO-SHOT VOICE CLONING VIA MULTI-TASKING WITH SELF-SUPERVISED SPEAKER VERIFICATION LOSS"
+This repository contains demo for paper "DINO-VITS: Data-Efficient Zero-Shot TTS with Self-Supervised Speaker Verification Loss for Noise Robustness"
