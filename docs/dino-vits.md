@@ -9,11 +9,11 @@ permalink: /dino-vits
 
 
 
-<!-- # DINO-VITS: Data-efficient noise-robust zero-shot voice cloning via multi-tasking with self-supervised speaker verification loss -->
+<!-- # DINO-VITS: Data-Efficient Zero-Shot TTS with Self-Supervised Speaker Verification Loss for Noise Robustness -->
 **Vikentii Pankov, Valeria Pronina, Alexander Kuzmin, Maksim Borisov, Nikita Usoltsev, Xingshan Zeng, Alexander Golubkov, Nikolai Ermolenko, Aleksandra Shirshova, Yulia Matveeva** 
 
 # Abstract
-> Recent progress in self-supervised representation learning has opened up new opportunities for training from unlabeled data and has been a growing trend in voice conversion. However, unsupervised training of voice cloning seems to remain a challenging task. In this paper we propose a semi-supervised zero-shot voice cloning approach that works by adapting a HuBERT-based voice conversion system to the voice cloning task and shows the robustness of such a system to noises both in training data (we add noises resulting in up to 0db signal-to-noise-ratio to 35% of training data with no significant degradation of evaluation metrics) and in the target speaker reference audio at inference. Moreover, such a method does not require any type of denoising or noise-labeling of training data. Finally, we introduce a novel multi-tasking approach by incorporating self-supervised DINO loss into joint training of a CAM++ based speaker verification system and a unit-based VITS cloning system. We show that it significantly improves the quality of generated audio over baselines, especially for noisy target speaker references.
+> We address zero-shot TTS systems' noise-robustness problem by proposing a dual-objective training for the speaker encoder using self-supervised DINO loss. This approach enhances the speaker encoder with the speech synthesis objective, capturing a wider range of speech characteristics beneficial for voice cloning. At the same time, the DINO objective improves speaker representation learning, ensuring robustness to noise and speaker discriminability. Experiments demonstrate significant improvements in subjective metrics under both clean and noisy conditions, outperforming traditional speaker-encoder-based TTS systems. Additionally, we explore training zero-shot TTS on noisy, unlabeled data. Our two-stage training strategy, leveraging self-supervised speech models to distinguish between noisy and clean speech, shows notable advances in similarity and naturalness, especially with noisy training datasets, compared to the ASR-transcription-based approach.
 
 
 [*] this page is intended for **research demonstration purposes** only.
